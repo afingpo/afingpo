@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-My Space : [`www.mingp0.dpdns.org`](https://www.mingp0.dpdns.org)
+My Space : [`www.afingpo.top`](https://www.afingpo.top)
 
-My GistLog : [`blog.mingp0.dpdns.org`](https://blog.mingp0.dpdns.org)
+My GistLog : [`blog.afingpo.top`](https://blog.afingpo.top)
 
-My Email : [`me@afingp0.dpdns.org`](mailto:me@afingp0.dpdns.org)
+My Email : [`afingpo@465332.xyz`](mailto:afingpo@465332.xyz)
 
 Thank You !
