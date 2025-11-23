@@ -1,9 +1,4 @@
 ## Hi there 👋
+[`主页`](https://www.afingpo.top) | [`博客`](https://blog.afingpo.top) | [`Email`](mailto:afipo_han@outlook.com)
 
-My Space : [`www.afingpo.top`](https://www.afingpo.top)
-
-My GistLog : [`blog.afingpo.top`](https://blog.afingpo.top)
-
-My Email : [`afingpo@465332.xyz`](mailto:afingpo@465332.xyz)
-
-Thank You !
+Thank you for you can read and follow me.
