@@ -16,6 +16,10 @@
 [![Blog](https://img.shields.io/badge/涵哲子居-afipo.top-7B61FF?style=for-the-badge)](https://afipo.top)
 [![Bilibili](https://img.shields.io/badge/Bilibili-哔哩哔哩-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/)
 
+<a href="https://github.com/afingpo">
+  <img src="https://ghchart.rshah.org/afingpo" alt="GitHub Contribution" />
+</a>
+
 </div>
 
 ## 我的项目
